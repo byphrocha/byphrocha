@@ -43,3 +43,6 @@
  <img align="center" src="https://img.shields.io/badge/-paulo.rocha13-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
