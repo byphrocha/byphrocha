@@ -1,4 +1,4 @@
-<img align="right" style= "height: 590em"> src="https://raw.githubusercontent.com/gist/byphrocha/c6f7bc2a9c044eafd81a730365e3641b/raw/b7da649740289a86208d2fca246a23f151e43929/githubcard.svg"/>
+<img align="right" style= "height: 590em"> ![image](https://github.com/byphrocha/byphrocha/assets/125285065/0d71a2a7-ebc2-4104-9890-226bb42c33b4)
 <h1 align="left">Hi 👋 , I'm Paulo Henrique Rocha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byphrocha&color=yellow" alt="Profile views" /> </p>
 
