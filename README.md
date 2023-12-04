@@ -1,4 +1,4 @@
-<img align="right" style="max-width: 100%; height: auto;"> src="https://raw.githubusercontent.com/gist/byphrocha/c6f7bc2a9c044eafd81a730365e3641b/raw/b7da649740289a86208d2fca246a23f151e43929/githubcard.svg"/>
+<img align="right" style=" max-width: 100%; height: 590em;"> src="https://raw.githubusercontent.com/gist/byphrocha/c6f7bc2a9c044eafd81a730365e3641b/raw/b7da649740289a86208d2fca246a23f151e43929/githubcard.svg"/>
 <h1 align="left">Hi 👋 , I'm Paulo Henrique Rocha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byphrocha&color=yellow" alt="Profile views" /> </p>
 
