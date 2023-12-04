@@ -1,4 +1,4 @@
-<img align="right" height="auto" max-width = "100%" src="https://raw.githubusercontent.com/gist/byphrocha/c6f7bc2a9c044eafd81a730365e3641b/raw/b7da649740289a86208d2fca246a23f151e43929/githubcard.svg"/>
+<img align="right" height="590em" max-width = "100%" max-height= "auto" src="https://raw.githubusercontent.com/gist/byphrocha/c6f7bc2a9c044eafd81a730365e3641b/raw/b7da649740289a86208d2fca246a23f151e43929/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byphrocha&color=yellow" alt="Profile views" /> </p>
 
 - 🚀 Software Engenieer student.
